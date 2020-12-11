@@ -1,2 +1,2 @@
 # PAINTCPLUSPLUS
-proyecto final PROHRA I UCB
+proyecto final PROGRA I UCB
